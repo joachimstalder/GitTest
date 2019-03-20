@@ -1,3 +1,7 @@
 test1
+<<<<<<< Updated upstream
 test2_2
+=======
+test2_3
+>>>>>>> Stashed changes
 test3
